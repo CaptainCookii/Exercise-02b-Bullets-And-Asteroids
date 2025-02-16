@@ -18,3 +18,7 @@ None
 
 ## Created by
 Nathan Mishler
+
+Evan Lucas
+
+CaptainCookii
